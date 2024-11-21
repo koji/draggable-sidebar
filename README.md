@@ -1,4 +1,11 @@
-# React + TypeScript + Vite
+# Draggable SideBar
+
+
+https://github.com/user-attachments/assets/ea5692f7-3d69-48e9-bdb1-2774a013d109
+
+
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
